@@ -18,6 +18,8 @@ This appication uses the node.js express package, make sure to run the command "
 ## Usage
 Once the application is running, click the "Get Started" button to navigate to the notes page. You can type in a note title and the inner text of what you want the note to be, then save it to the sidebar using the save icon in the top right of the  green bar. To delete any notes you have saved simply click the red delete icon on the right of each saved note.
 
+### Link to deployed application on heroku - https://agile-crag-76109.herokuapp.com/
+
 ## License
 MIT License - Copyright 2021 Patrick-Kaczmar
 
